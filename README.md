@@ -1,9 +1,3 @@
-![banner](.github/assets/Linkedin_Cover_-_Data-Driven_t1tqsx.webp)
-# Hey there, I'm DOSSEH Shalom ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-I'm an experienced LLM Engineer and AI systems architect with a proven track record in building production-ready AI applications, intelligent agents, and Retrieval-Augmented Generation (RAG) pipelines. I have over 3 years of experience across different domains, from software engineering to data science, creating performance-sensitive applications using state-of-the-art techniques. I'm currently a Fintech Data Scientist, leveraging data manipulation libraries, reporting tools, and machine learning techniques to query large financial datasets to limit financial losses and predict product trends, providing various stakeholders with data-driven insights..
-
-## Goal 🚀
 Currently, I am expanding my skill set in data science and analytical engineering, with a strong focus on financial and quantitative investment. My long-term aspiration is to merge my technical expertise with my passion for economics to design systematic and data-driven investment strategies.
 
 My ultimate goal is to harness technology to create transformative economic opportunities and drive sustainable, long-lasting impact.
