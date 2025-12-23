@@ -47,7 +47,7 @@ I’m open to roles that allow me to grow, collaborate with skilled professional
 
 </details>
 
-## Find Me! 📡
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-dosseh-4a484a262/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dossehdosseh14@gmail.com)
