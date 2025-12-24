@@ -1,6 +1,4 @@
-Currently, I am expanding my skill set in data science and analytical engineering, with a strong focus on financial and quantitative investment. My long-term aspiration is to merge my technical expertise with my passion for economics to design systematic and data-driven investment strategies.
-
-My ultimate goal is to harness technology to create transformative economic opportunities and drive sustainable, long-lasting impact.
+Software engineer who builds data-driven, automated systems, with a long-term focus on quantitative finance.
 
 > [!NOTE]  
 > I’m currently looking for opportunities to:  
