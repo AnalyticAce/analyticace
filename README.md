@@ -1,10 +1,9 @@
 Software engineer who builds data-driven, automated systems, with a long-term focus on quantitative finance.
 
-> [!NOTE]  
-> I’m currently looking for opportunities to:  
-> - Contribute to innovative projects in **AI**, **data science**, **quantitative finance**, or **analytical engineering**.  
-> - Join a forward-thinking team focused on **systematic investment strategies** or **fintech solutions**.  
-> - Collaborate on initiatives that combine **technology and economics** to drive sustainable impact.  
+> [!NOTE]
+> - I’m currently seeking opportunities to contribute to engineering-driven teams working on automated trading systems, fintech platforms, or data-intensive products.  
+> - I’m particularly interested in roles where I can design and build robust backend systems, integrate AI models into production, and work on systematic investment. 
+> - I value environments that encourage technical rigor, collaboration, and long-term impact, and I’m motivated by solving complex problems at the intersection of technology, data, and finance.  
 
 I’m open to roles that allow me to grow, collaborate with skilled professionals, and contribute to impactful solutions.
 
